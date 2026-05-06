@@ -1,0 +1,17 @@
+{
+  "repo": "ferrum-rel-breaker-probe",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 3,
+    "ship": 200,
+    "watch": 106
+  },
+  "terms": [
+    "budget pressure",
+    "failure width",
+    "recovery gap",
+    "runbook drift"
+  ]
+}
